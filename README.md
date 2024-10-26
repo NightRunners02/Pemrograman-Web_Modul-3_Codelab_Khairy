@@ -31,6 +31,8 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Test2&type=Date)](https://star-history.com/#NightRunners02/Test2&Date)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Test2&type=Date)](https://star-history.com/#NightRunners02/Test2&Date)
+
 </p>
 </div>
 </details>
